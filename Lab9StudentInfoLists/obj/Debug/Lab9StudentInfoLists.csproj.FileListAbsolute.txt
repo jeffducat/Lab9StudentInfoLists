@@ -1,0 +1,7 @@
+C:\Users\jduca\source\repos\Lab9StudentInfoLists\Lab9StudentInfoLists\bin\Debug\Lab9StudentInfoLists.exe.config
+C:\Users\jduca\source\repos\Lab9StudentInfoLists\Lab9StudentInfoLists\bin\Debug\Lab9StudentInfoLists.exe
+C:\Users\jduca\source\repos\Lab9StudentInfoLists\Lab9StudentInfoLists\bin\Debug\Lab9StudentInfoLists.pdb
+C:\Users\jduca\source\repos\Lab9StudentInfoLists\Lab9StudentInfoLists\obj\Debug\Lab9StudentInfoLists.csproj.CoreCompileInputs.cache
+C:\Users\jduca\source\repos\Lab9StudentInfoLists\Lab9StudentInfoLists\obj\Debug\Lab9StudentInfoLists.exe
+C:\Users\jduca\source\repos\Lab9StudentInfoLists\Lab9StudentInfoLists\obj\Debug\Lab9StudentInfoLists.pdb
+C:\Users\jduca\source\repos\Lab9StudentInfoLists\Lab9StudentInfoLists\obj\Debug\Lab9StudentInfoLists.csprojAssemblyReference.cache
